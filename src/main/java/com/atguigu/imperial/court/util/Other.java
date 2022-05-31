@@ -10,5 +10,6 @@ public class Other {
         System.out.println("git");
         System.out.println("git2.0");
         System.out.println("git3.0");
+        System.out.println("master");
     }
 }
