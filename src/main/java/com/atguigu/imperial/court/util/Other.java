@@ -9,5 +9,6 @@ public class Other {
     public static void main(String[] args) {
         System.out.println("git");
         System.out.println("git2.0");
+        System.out.println("git3.0");
     }
 }
